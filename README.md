@@ -39,6 +39,3 @@ and comfortable working in **Agile environments**.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bikash52&color=blue&style=for-the-badge" alt="Profile views"/>
-</p>

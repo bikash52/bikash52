@@ -31,15 +31,6 @@ and comfortable working in **Agile environments**.
 
 ---
 
-## 📊 GitHub Overview  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bikash52&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikash52&layout=compact&theme=tokyonight" height="180em"/>
-</p>  
-
----
-
 ## 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikash-kumar-jena/)  
